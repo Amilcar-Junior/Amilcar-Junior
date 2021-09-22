@@ -2,6 +2,7 @@
 
 - 🌱 Eu estou estudando ReactNative
 - 💼 Sou univercitario 4° ano
+<p/>
 
  <div>
   <a href="https://github.com/Amilcar-Junior">
