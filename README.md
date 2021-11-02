@@ -30,7 +30,7 @@
 <div> 
 
  <!-- alterar snake futuramente -->
-  ![Snake animation](https://github.com/rafaballerini/Amilcar-Junior/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Amilcar-Junior/Amilcar-Junior/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
