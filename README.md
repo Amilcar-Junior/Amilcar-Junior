@@ -3,11 +3,16 @@
 - 🌱 Eu estou estudando ReactNative
 - 💼 Sou univercitario 4° ano
 
- <div>
+
   <a href="https://github.com/Amilcar-Junior">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amilcar-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Junior&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Amilcar-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Amilcar-Junior/github-readme-stats">
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Junior&layout=compact&langs_count=7&theme=dark"/>
+ </a>
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
