@@ -6,7 +6,7 @@
 
 
 - 🌱 Eu estou estudando ReactNative
-- 💼 Sou univercitario 4° ano
+- 💼 Sou univercitario 4° ano de EIC
 - Atualmente trabalhando em um projeto da UNESCO
 
 
