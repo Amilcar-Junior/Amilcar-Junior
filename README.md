@@ -7,6 +7,7 @@
 
 - 🌱 Eu estou estudando ReactNative
 - 💼 Sou univercitario 4° ano
+- Atualmente trabalhando em um projeto da UNESCO
 
 
   <a href="https://github.com/Amilcar-Junior">
