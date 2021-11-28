@@ -6,7 +6,7 @@
 
 
 - 🌱 Eu estou estudando React e ReactNative
-- 💼 Sou univercitario 4° ano de EIC
+- 💼 Sou univercitario 4° ano de EIC ( UNICV )
 
   ## Git Stats
   <div>
