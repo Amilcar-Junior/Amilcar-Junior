@@ -8,16 +8,16 @@
 - 🌱 Eu estou estudando React e ReactNative
 - 💼 Sou univercitario 4° ano de EIC ( UNICV )
 
-  ## Git Stats
+## Git Stats
   <div>
     <a href="https://github.com/Amilcar-Junior">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amilcar-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Junior&layout=compact&langs_count=7&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amilcar-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Junior&layout=compact&langs_count=7&theme=dark"/>
       
     </a>
   </div>
    
-  ## Contribution Stats
+ ## Contribution Stats
    <p>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amilcar-Junior&layout=compact&bg_color=111111&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true" /></a>
    </p>
@@ -34,7 +34,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+##
  
 <div> 
 
