@@ -1,6 +1,10 @@
 <div aling="center">
   <h1 align="center">Hi 🖐, I`m Amilcar Junior</h1>
 </div> 
+<div aling="center">
+  <h3 align="center">
+I'm a Full Stack Developer from Cape Verde  <img alt="Cape Verde flag" width="26px" src="https://image.flaticon.com/icons/png/512/206/206814.png" /> </h3>
+</div> 
 
 <div align="center">
   <a align="center" href="https://www.instagram.com/mikamikaus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
