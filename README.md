@@ -10,8 +10,8 @@
 
 <div align="center">
   <br/>
-<p align="center">🌱 Eu estou estudando React e ReactNative</p>
-  <p align="center">💼 Sou univercitario 4° ano de EIC ( UNICV )</p>
+<p align="center">🌱 I am studying React and ReactNative</p>
+  <p align="center">💼 I am a 4th year university student at EIC (UNICV)</p>
 </div>
 
 <div aling="center">
