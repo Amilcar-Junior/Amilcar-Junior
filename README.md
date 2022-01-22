@@ -37,7 +37,7 @@
   <h1 align="center">Contribution Stats</h1>
 </div> 
    <p align="center">
-   <a align="center" href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amilcar-Junior&layout=compact&bg_color=111111&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true" /></a>
+   <a align="center"><img align="center" alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amilcar-Junior&layout=compact&bg_color=111111&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true"/></a>
    </p>
  
 <div aling="center">
