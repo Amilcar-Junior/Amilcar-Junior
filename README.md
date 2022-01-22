@@ -27,7 +27,7 @@
 </div> 
 
 <div aling="center">
-  <a href="https://github.com/Amilcar-Junior">
+  <a align="center" href="https://github.com/Amilcar-Junior">
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=Amilcar-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Junior&layout=compact&langs_count=7&theme=dark"/>
   </a>
