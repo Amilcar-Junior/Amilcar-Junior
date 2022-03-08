@@ -27,12 +27,18 @@
   <h1 align="center">Git Stats</h1>
 </div> 
 
-<div aling="center">
+<p align="center">
   <a align="center" href="https://github.com/Amilcar-Junior">
-    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=Amilcar-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Junior&layout=compact&langs_count=7&theme=dark"/>
+    <img align="center" height="300em" src="https://github-readme-stats.vercel.app/api?username=Amilcar-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a align="center" href="https://github.com/Amilcar-Junior">
+    <img align="center" height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Junior&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</p>
 
 <div aling="center">
   <h1 align="center">Contribution Stats</h1>
@@ -59,11 +65,11 @@
   
 ##
  
-<div aling="center"> 
+<p aling="center"> 
 
   ![Snake animation](https://github.com/Amilcar-Junior/Amilcar-Junior/blob/output/github-contribution-grid-snake.svg) 
   
-</div>
+</p>
 
 <div aling="center">
   <h1 align="center">End</h1>
