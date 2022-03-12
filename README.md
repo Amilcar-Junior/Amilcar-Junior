@@ -19,7 +19,7 @@
 <div align="center">
   <br/>
   <p align="center">💼 I am a 4th year university student at EIC (UNICV)</p>
-  <p align="center">🌱 I’m currently learning ReactJS and React-Native</p> 
+  <p align="center">🌱 I’m currently learning ReactJS and Odoo</p> 
   <p align="center">💬 Ask me about: Tech, Memes, Anime</p>
 </div>
 
