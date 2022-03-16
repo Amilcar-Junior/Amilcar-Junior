@@ -11,9 +11,9 @@
 
 <div aling="center">
   <h3 align="center">
-<img aling="center" alt="Cape Verde flag" width="26px" src="https://image.flaticon.com/icons/png/512/206/206814.png" /> 
+<img aling="center" alt="Cape Verde flag" width="26px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e8-1f1fb.png" /> 
     I'm a Full Stack Developer from Cape Verde
-<img aling="center" alt="Cape Verde flag" width="26px" src="https://image.flaticon.com/icons/png/512/206/206814.png" /> </h3>
+<img aling="center" alt="Cape Verde flag" width="26px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e8-1f1fb.png" /> </h3>
 </div> 
 
 <div align="center">
