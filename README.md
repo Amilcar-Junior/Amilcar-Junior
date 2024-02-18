@@ -55,7 +55,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/odoo/odoo-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/python/python-original.svg">
   
 </div>
   
