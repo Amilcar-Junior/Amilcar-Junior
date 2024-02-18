@@ -35,12 +35,12 @@
   </a>
 </p>
 
-<div aling="center">
+<!--<div aling="center">
   <h1 align="center">Contribution Stats</h1>
 </div> 
    <p align="center">
    <a align="center"><img align="center" alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amilcar-Junior&layout=compact&bg_color=111111&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true"/></a>
-   </p>
+   </p>-->
  
 <div aling="center">
   <h1 align="center">Techs I use the most</h1>
