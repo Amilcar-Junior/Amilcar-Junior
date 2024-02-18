@@ -12,14 +12,14 @@
 <div aling="center">
   <h3 align="center">
 <img aling="center" alt="Cape Verde flag" width="26px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e8-1f1fb.png" /> 
-    I'm a Full Stack Developer from Cape Verde
+    I'm a Software Enginear from Cape Verde
 <img aling="center" alt="Cape Verde flag" width="26px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e8-1f1fb.png" /> </h3>
 </div> 
 
 <div align="center">
   <br/>
-  <p align="center">💼 I am a 4th year university student at EIC (UNICV)</p>
-  <p align="center">🌱 I’m currently learning ReactJS and Odoo</p> 
+  <!--<p align="center">💼 I am a 4th year university student at EIC (UNICV)</p>-->
+  <p align="center">🌱 I’m currently learning Odoo and Crawler</p> 
   <p align="center">💬 Ask me about: Tech, Memes, Anime</p>
 </div>
 
