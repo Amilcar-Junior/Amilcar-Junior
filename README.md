@@ -1,13 +1,13 @@
-<div aling="center">
-  <h1 align="center">Hi 👋, I`m Amilcar Júnior</h1>
-</div> 
 
 <div align="center">
-  <a align="center" href="https://www.instagram.com/mikamikaus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a align="center" href = "mailto:amilcarjunior2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a align="center" href="https://www.youtube.com/MikamikausGames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a align="center" href="https://www.linkedin.com/in/amilcar-junior/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://profile-counter.glitch.me/amilcar-junior/count.svg?"  />
 </div>
+
+###
+
+<h2 align="center">Hi 👋! My name is Amílcar Júnior</h2>
+
+###
 
 <div aling="center">
   <h3 align="center">
@@ -23,55 +23,74 @@
   <p align="center">💬 Ask me about: Tech, Memes, Anime</p>
 </div>
 
-<div aling="center">
-  <h1 align="center">Git Stats</h1>
-</div> 
 
+###
 
-<p align="center">
-  <a align="center" href="https://github.com/Amilcar-Junior">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amilcar-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Junior&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</p>
+<h2 align="center">GIT STATS</h2>
 
-<!--<div aling="center">
-  <h1 align="center">Contribution Stats</h1>
-</div> 
-   <p align="center">
-   <a align="center"><img align="center" alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amilcar-Junior&layout=compact&bg_color=111111&color=BE91F2&line=70A4FC&point=FFFFFF&hide_border=true"/></a>
-   </p>-->
- 
-<div aling="center">
-  <h1 align="center">Techs I use the most</h1>
-</div> 
+###
 
-<div align="center" style="display: inline_block"><br>
- <img align="center" alt="Python" height="30" width="40" src='https://camo.githubusercontent.com/c37a4e3c0802bc6a242656affabd5b4d5ced50ecc5b71660e7db95b140263c44/68747470733a2f2f636f64652e76697375616c73747564696f2e636f6d2f66617669636f6e2e69636f'>
- <img align="center" alt="Python" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
-  <img align="center" alt="MySql" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-  <img align="center" alt="MySql" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
-  <img align="center" alt="MySql" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg'>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://camo.githubusercontent.com/7871c27fb7dae8b8450ccec1e1f3b732e234d96a43b4db14f5d963f705f5dcc7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f352f35302f4f646f6f5f6c6f676f2e737667">
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amilcar-junior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amilcar-junior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=amilcar-junior&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-  
-##
- 
-<p aling="center"> 
 
-  ![Snake animation](https://github.com/Amilcar-Junior/Amilcar-Junior/blob/output/github-contribution-grid-snake.svg) 
-  
-</p>
+###
 
-<div aling="center">
-  <h1 align="center">End</h1>
-</div> 
+<h2 align="center">TECHS</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="center">SOCIAL</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amilcar-junior/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:amilcarjunior2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/mikamikaus/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="Mikamikaus#2819" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+ ![Snake animation](https://github.com/Amilcar-Junior/Amilcar-Junior/blob/output/github-contribution-grid-snake.svg) 
+
+
+
+
 
 
