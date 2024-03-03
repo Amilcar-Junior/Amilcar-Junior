@@ -60,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/f2d85b2ce8c8ee58f38d8ac042a25aeeaed3228174ad529886ad7ade13ff46d6/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3634303732383266623866643366356534663231653262302f3634613534396463623332653535613235346435326364325f48724547306d7a3764506f54363063736b437955316d727a746134304b7931686571684a56725066344d512e706e67" height="30" alt="git logo"  />
 </div>
 
 ###
