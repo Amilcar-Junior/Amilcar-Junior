@@ -91,10 +91,11 @@
 
 <br clear="both">
 
- ![Snake animation](https://github.com/Amilcar-Junior/Amilcar-Junior/blob/output/github-contribution-grid-snake.svg) 
+
+ ![Snake animation](https://github.com/amilcar-junior/amilcar-junior/blob/output/github-contribution-grid-snake.svg)
 
 
-
+###
 
 
 
