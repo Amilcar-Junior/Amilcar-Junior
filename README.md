@@ -19,7 +19,7 @@
 <div align="center">
   <br/>
   <!--<p align="center">💼 I am a 4th year university student at EIC (UNICV)</p>-->
-  <p align="center">🌱 I’m currently learning Odoo and Crawler</p> 
+  <p align="center">🌱 I’m currently learning Odoo, Crawler, Vue</p> 
   <p align="center">💬 Ask me about: Tech, Memes, Anime</p>
 </div>
 
