@@ -61,7 +61,7 @@
   <a href="mailto:amilcarjunior2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/mikamikaus/" target="_blank">
+  <a href="https://www.instagram.com/amilcarjuniorscript/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
   <a href="Mikamikaus#2819" target="_blank">
