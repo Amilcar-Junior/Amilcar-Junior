@@ -53,6 +53,15 @@
 
 ---
 
+<h2 align="center">⚡ Curiosidades</h2>
+<div align="center">
+  <p>📌 Interessado em explorar projetos que automatizam processos.</p>
+  <p>🌱 Desenvolvendo soluções para agricultura inteligente com IoT.</p>
+  <p>🎮 Amante de jogos, anime e memes</p>
+</div>
+
+---
+
 <h2 align="center">📞 Entre em Contato</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/amilcar-junior/" target="_blank">
@@ -67,13 +76,4 @@
   <a href="Mikamikaus#2819" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
   </a>
-</div>
-
----
-
-<h2 align="center">⚡ Curiosidades</h2>
-<div align="center">
-  <p>📌 Interessado em explorar projetos que automatizam processos.</p>
-  <p>🌱 Desenvolvendo soluções para agricultura inteligente com IoT.</p>
-  <p>🎮 Amante de jogos, anime e memes</p>
 </div>
