@@ -20,9 +20,13 @@ My work focuses on <strong>e-commerce, fintech, automation, digital transformati
 
 ## 📊 GitHub Stats & Trophies
 
-<p>
+<p align="center">
   <a href="https://github.com/Amilcar-Junior">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amilcar-Junior&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Amilcar-Junior's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Amilcar-Junior">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amilcar-Junior&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -95,14 +99,6 @@ My work focuses on <strong>e-commerce, fintech, automation, digital transformati
 <p>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-## 📈 Top Languages
-
-<p>
-  <a href="https://github.com/Amilcar-Junior">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amilcar-Junior&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 ## 🔗 Connect with Me
